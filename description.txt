@@ -1,0 +1,9 @@
+"Mendeteksi tingkat kematangan pada daging"
+
+Rare, Medium Rare, medium, medium well, well done...
+
+
+Open :
+1. Open and upload file .ipynb in collab
+2. Upload file steak.zip and steak.csv in file colab
+3. Run code

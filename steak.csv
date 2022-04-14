@@ -1,0 +1,6 @@
+descriptionID,steakID,manufactureDescription,maturity,Celcius,protein,calories,gluten free,exotic,sweet,hot,sweetSpicy,teriyaki,original,Peppered,koreanBBQ,honeyGlazed,sodium,chewy,soft,tough,moist,dry,thick,thin,grade,cost,steakID
+1,1,Sirloin adalah potongan daging yang didapat dari bagian bawah iga sampai ke luar has dalam.,Rare,20°-35°,10,70,0,0,0,0,0,0,1,0,0,0,570,1,0,1,0,1,1,0,NULL,NULL,1
+2,2,T-Bone adalah potongan daging T-Bone memiliki ciri khas berupa tulang yang bentuknya mirip huruf T menempel di tepi daging.,Medium Rare,36°-50°,10,70,0,0,0,1,0,0,0,1,0,0,520,1,0,1,0,1,1,0,NULL,NULL,2
+3,3,"Striploin adalah potongan daging ini cukup disukai karena dagingnya lembut, tetapi juga masih cukup juicy. pada dasarnya potongan ini adalah lapisan dagin yang menyelimuti tenderloin.",Medium,51°-60°,10,70,0,0,0,0,0,1,0,0,0,0,530,1,0,1,0,0,0,0,NULL,NULL,3
+4,4,"Tinderloin adalah potongan daging sapi dari bagian tengah badan. letaknya di bagian tulang belakang, bahu dan tulang panggul.",Medium Well,61°-70°,10,100,0,1,0,0,0,0,1,0,0,0,510,1,0,1,0,0,0,1,NULL,NULL,4
+5,5,Ribeye: potongan daging yang menempel pada tulang rusuk sapi. daging ini memiliki tekstur yang lembut dan beraroma.,Well Done,70°-80°,10,90,1,0,0,0,0,0,1,0,0,0,340,1,1,0,1,0,1,0,NULL,NULL,5
